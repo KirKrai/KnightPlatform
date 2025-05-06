@@ -41,7 +41,7 @@
 Управление:
 + WASD-перемещение
 + Rigt Click-удар
-+ Left Clicr-рывок
++ Left ClicK-рывок
 + R-лечение
 + Space-прыжок
 
