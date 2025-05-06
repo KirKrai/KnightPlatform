@@ -15,8 +15,10 @@
 
 Цель: дойти до конца уровня и сразить на арене и выйти в дверь.
 
-![Без имени-1](https://github.com/user-attachments/assets/da0827ce-ea18-43f6-afa2-4aeb352948f2)
 
+
+
+![Без имени-1](https://github.com/user-attachments/assets/cc41f727-effb-41bc-81ec-e5a67809d895)
 
 
 ![карта](https://github.com/user-attachments/assets/c10abf6e-7fe2-4b48-b045-6ca36d26e787)
